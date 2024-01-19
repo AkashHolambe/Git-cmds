@@ -47,7 +47,7 @@ git rm -r [file-name.txt]	Remove a file (or folder)
 
 
 
-sharing and updating cmds
+# sharing and updating cmds
 
 
 git push origin [branch name]	Push a branch to your remote repository
@@ -68,7 +68,7 @@ git remote set-url origin ssh://git@github.com/[username]/[repository-name].git	
 
 
 
-<h2><Sharing & Updating Projects</h2>
+# Sharing & Updating Projects
 
 
 
@@ -88,7 +88,7 @@ git remote add origin ssh://git@github.com/[username]/[repository-name].git	Add 
 
 git remote set-url origin ssh://git@github.com/[username]/[repository-name].git	Set a repository's origin branch to SSH
 
-Inspection & Comparison
+# Inspection & Comparison
 
 git log	View changes
 git log --summary	View changes (detailed)
